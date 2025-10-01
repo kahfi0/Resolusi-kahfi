@@ -2,3 +2,4 @@ Halo saya kahfi
 - saya baru saja mulai belajar laravel
 - mulai belajar apa itu git & github
 - kedepannya saya ingin belajar mengenai html, css dan javascript lebih lanjut
+blalll
