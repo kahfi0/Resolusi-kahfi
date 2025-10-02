@@ -1,6 +1,7 @@
 Rencana konten
 - Javascript
-* ReactJS
+* Framework JS
+  ^ Angular
 * ES6
 - PHP Frameworks
 - Interview
